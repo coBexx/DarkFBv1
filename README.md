@@ -1,5 +1,5 @@
 # _Dark Facebook Versi 1.0_
-# _Lisensi_ *:* _https://linkerload.com/5FwtGac_
+# _Lisensi_ *:* _https://linkerload.com/1NsCvVo_
 # ~$~ _pkg install python2_
 # ~$~ _pkg install nodejs_
 # ~$~ _pkg install git_
