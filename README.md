@@ -1,4 +1,4 @@
-# _Script Dark Facebook_
+# _Script Dark Facebook v1_
 #
 # *INSTALL*
 # ~$~ _pkg install nodejs_
